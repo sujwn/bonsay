@@ -1,0 +1,22 @@
+{
+  "name": "fwoom-logger",
+  "version": "1.0.0",
+  "description": "Lightweight logger plugin",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "keywords": [
+    "logger",
+    "logging",
+    "plugin",
+    "json",
+    "pretty"
+  ],
+  "author": "SUJWN",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
