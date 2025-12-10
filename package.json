@@ -1,5 +1,5 @@
 {
-  "name": "fwoom-logger",
+  "name": "bonsay",
   "version": "1.0.0",
   "description": "Lightweight logger plugin",
   "main": "dist/index.js",
